@@ -1,13 +1,15 @@
 /*  your css code here. If applicable */
-.a {
-	color:blue
+.a{
+	color: blue;
 }
 .b{
 	height:200px;
-	
 }
+.x,.d,.y{
+	color:#5D2590;
+}
+
 .c{
 	font-size:1.5rem;
-	color:blue;
 	font-weight:bold;
 }
